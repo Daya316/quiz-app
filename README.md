@@ -13,3 +13,6 @@ duration: 4 weeks
 mentor: neela santhosh
 
 i just uses the basics of html,css and javascript.
+
+#output
+![Image](https://github.com/user-attachments/assets/0b3a064b-9687-4db5-b881-84ce7c957c66)
